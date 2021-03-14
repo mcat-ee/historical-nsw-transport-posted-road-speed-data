@@ -1,3 +1,3 @@
-This repository acts as an archive of historical posted speed limit data provided by Transport for NSW. 
+This repository acts as an archive of historical posted speed limit data provided by Transport for NSW. I've created this archive as there is no provision for getting historical road speed data from the official Open Data site, and historical data can be useful (especially for retrospectively checking a posted road speed that has since changed, say for the purposes of updating OpenStreetMap).
 
 The latest data [can be found here](https://opendata.transport.nsw.gov.au/dataset/speed-zones/resource/72cd0f29-f231-4c8c-a885-595946f3f202). The license the data is provided under [can be found here](https://opendata.transport.nsw.gov.au/data-licence).
